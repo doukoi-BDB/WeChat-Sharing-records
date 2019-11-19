@@ -9,7 +9,7 @@
 群主每日会精选一到二篇技术有关文章发在群里，提供给大家学习或者交流。
 因为群内会讨论内容导致消息被顶，所以群主每天每天替换分享的内容放在GitHub。
 方便后进来的成员以及在线成员，方便查找历史记录，而不需要翻聊天记录。
-链接：https：//github.com/gtcarry888/WeChat-Sharing-records
+链接：<a style="color:red" href="https://github.com/gtcarry888/WeChat-Sharing-records">微信分享记录</a>
 ---------------------
 
 原则：群内禁止鄙视任何初学者，讽刺等情况。否则不管多大佬，直接踢群。
