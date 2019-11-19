@@ -1,0 +1,11 @@
+【2019.11.19】
+~~~~~~~~~~~~
+【今日分享】大家经常会用到脚本、跑一些服务之类的事情。但是很多人只是写具体执行时间，却不知道最后shell中2>&1的含义。
+ 所以我今天分享这么一篇文章。写的确实很具体明了，你看完这个，以后我相信你绝对了解。
+链接：https://www.jb51.net/article/169778.htm
+~~~~~~~~~~~~
+①小程序相关源码链接：https://github.com/gtcarry888/Source-code
+②免费书籍分享链接：https://github.com/gtcarry888/Open-source-books
+③每日微信分享记录链接：https://github.com/gtcarry888/WeChat-Sharing-records
+
+原则：群内禁止鄙视、讽刺等情何初学者，否则直接踢群。（可分享互联网相关任何文章、禁广告）
