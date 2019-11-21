@@ -1,0 +1,12 @@
+@所有人
+【2019.11.21】
+~~~~~~~~~~~~
+【今日分享】记得前俩天说好的给大家分享一波 PHP 面试题、它来了~~~
+针对现在市场、emm.....面试机会确实不多。所以要想出萃拔类一些、那我们就得比别人了解的多、知道的深。别问为什么、百度去。
+链接：https://mp.weixin.qq.com/s/gS5WXitH7bys11tzFmZIAQ
+~~~~~~~~~~~~
+①小程序相关源码链接：https://github.com/gtcarry888/Source-code
+②免费书籍分享链接：https://github.com/gtcarry888/Open-source-books
+③每日微信分享记录链接：https://github.com/gtcarry888/WeChat-Sharing-records
+
+原则：群内禁止鄙视、讽刺等情何初学者，否则直接踢群。（可分享互联网相关任何文章、禁广告）
