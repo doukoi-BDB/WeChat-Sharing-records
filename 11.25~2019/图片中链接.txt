@@ -1,0 +1,11 @@
+@所有人
+【2019.11.25】
+~~~~~~~~~~~~
+【今日分享】今天针对人群是小清新、是一波源码福利（留言板）。代码包括 后端+前端+mysql+效果图 。有初入职场的清新可以拿过去看。
+链接：https://mp.weixin.qq.com/s/wbeb2Gby-MWq6AqEy494UA
+~~~~~~~~~~~~
+①小程序相关源码链接：https://github.com/gtcarry888/Source-code
+②免费书籍分享链接：https://github.com/gtcarry888/Open-source-books
+③每日微信分享记录链接：https://github.com/gtcarry888/WeChat-Sharing-records
+
+原则：群内禁止鄙视、讽刺等情何初学者，否则直接踢群。（可分享互联网相关任何文章、禁广告）
