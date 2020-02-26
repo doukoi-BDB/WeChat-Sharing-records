@@ -1,0 +1,9 @@
+@所有人
+【2020.02.25~今日分享】
+______________________
+内容：今天分享 " Elasticsearch 可视化管理工具 " , 编程必备工具之一，写的很详细。有喜欢的朋友可以点击下方↓公众号文章进行查看。
+链接：https://mp.weixin.qq.com/s/K4RWeuGcFdrWvSs68CPfrQ
+______________________
+「每日微信分享记录」：https://github.com/gtcarry888/WeChat-Sharing-records
+「互联网编程资源手册 」：https://github.com/gtcarry888/Idle-it-resources
+「原则」群内禁止广告、鄙视、讽刺任何初学者（可分享互联网相关技术）
