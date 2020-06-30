@@ -1,8 +1,0 @@
-@所有人
-【2020.03.01~今日分享】
-______________________
-内容：今天分享 " IT elasticsearch环境部署测试"，搜索引擎是目前中大型公司必备技术，我将具体搭建实现方式写入word文档，需要自取。
-______________________
-「每日微信分享记录」：https://github.com/gtcarry888/WeChat-Sharing-records
-「互联网编程资源手册 」：https://github.com/gtcarry888/Idle-it-resources
-「原则」群内禁止广告、鄙视、讽刺任何初学者（可分享互联网相关技术）

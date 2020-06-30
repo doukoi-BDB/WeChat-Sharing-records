@@ -1,8 +1,0 @@
-@所有人
-新的一周又来了，分享一句谚语 “胸有凌云志，无高不可攀” 。
-
-分享给大家的是 「MySQL 模块」- 经典sql 30题。
-
-在这里我希望通过此篇 “经典 sql 30题” ，能对大家在 sql 方面，有一定的帮助与理解。
-
-链接：https://mp.weixin.qq.com/s/LAvdI2DStgdMlBDHqUqhCA
