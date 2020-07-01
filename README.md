@@ -18,7 +18,7 @@
 
 |   ID  |   Logo  |   专栏类型  |   PDF 下载  |
 |   :------:   |   :------:   |   :---    |   :---    |
-|   0   |   :volcano: |   `缓存篇`  |   [NetAssist下载](http://note.youdao.com/noteshare?id=cc598c9c138e96f375919cb3ccb1c44b&sub=4FEEAEF6873C49CC9C8F2DE1EF7217AA) |
+|   0   |   :volcano: |   `缓存篇`  |   [拆解redis 持久化 工作原理](http://note.youdao.com/noteshare?id=cc598c9c138e96f375919cb3ccb1c44b&sub=4FEEAEF6873C49CC9C8F2DE1EF7217AA) |
 |   1   |   :sound: |  `缓存篇`  |   [itstack-demo-netty](###) |
 
 **如果**，以上某些资源不能下载获取，可以添加作者：Bruce.D，微信(xzzs730)
