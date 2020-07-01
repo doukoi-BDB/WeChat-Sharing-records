@@ -11,7 +11,6 @@
 <br/>  
 
 <div align="center">
-<a href="https://github.com/gtcarry888/WeChat-Sharing-records"><img src="https://badgen.net/github/stars/fuzhengwei/CodeGuide?icon=github&color=4ab8a1"></a>
 <a href="https://mp.weixin.qq.com/s/u3MtOpQfV2U3NV8iiYPhkQ" target="_blank"><img src="https://bugstack.cn/assets/images/onlinebook.svg"></a>
 
 </div>
@@ -20,7 +19,6 @@
 |   ID  |   Logo  |   专栏类型  |   PDF 下载  |
 |   :------:   |   :------:   |   :---    |   :---    |
 |   0   |   :volcano: |   `缓存篇`  |   [NetAssist下载](###) |
-|   1   |   :sound: |  `缓存篇`  |   [itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty) |
-|   -1  |   :ferris_wheel:    |   [`其他文章`](#ferris_wheel-其他文章)  |   [CodeGuide](https://github.com/fuzhengwei/CodeGuide/tree/master/src)    |
+|   1   |   :sound: |  `缓存篇`  |   [itstack-demo-netty](###) |
 
 **如果**，以上某些资源不能下载获取，可以添加作者：Bruce.D，微信(xzzs730)
