@@ -6,7 +6,7 @@
 
 <br/>
 <div align="center">
-    <a href="https://bugstack.cn" style="text-decoration:none"><img src="https://bugstack.cn/assets/images/icon.svg" width="128px"></a>
+    <a href="#" style="text-decoration:none"><img src="https://bugstack.cn/assets/images/icon.svg" width="128px"></a>
 </div>
 <br/>  
 
@@ -16,22 +16,32 @@
 </div>
 <br/>
 
-|   ID  |   Logo  |   专栏类型  |   PDF 下载  |
-|   :------:   |   :------:   |   :---    |   :---    |
-|   0   |   :volcano: |   `缓存篇`  |   [拆解redis 持久化 工作原理](http://note.youdao.com/noteshare?id=cc598c9c138e96f375919cb3ccb1c44b&sub=4FEEAEF6873C49CC9C8F2DE1EF7217AA) |
-|   1   |   :sound: |  `缓存篇`  |   [itstack-demo-netty](###) |
+开场：
+本仓库分享源码插件、欢迎使用、欢迎来撩；
+欢迎加入源码社群一起研发，讨论。（记得点一个star）
 
-**如果**，以上某些资源不能下载获取，可以添加作者：Bruce.D，微信(xzzs730)
+使用须知
+
+本GitHub推送的所有源码内容，均欢迎在尊重 及第三方合法权利的前提下进行使用。
+
+本GitHub（公号：八点半技术站）不对任何转载方的转载行为承担法律责任。任何转载方转载“八点半技术站”内容均视为知晓并同意本规定。
+
+
+如果你是读者一枚，欢迎分享到朋友圈及个人好友。
+
+
+附：特别说明
+▽
+   来   源（公众号）：八点半技术站（ID：gtcarry）
+作   者：Bruce.D
+微  信：xzzs730 （备注：源码社群）
+如有其他疑问，可联系微信或 （邮箱：gtcarry999@163.com）留言即可，小编会在24小时进行回复。
+
+
 
 -----------
 
 公众号：八点半技术站
-
-----投 稿 分 隔 线 ----
-投 稿 ， 关 注 公 众 号 回 复 “ 投 稿 ”     |   专 员 对 接
-
------商 务 合 作 分 隔 线 ----
-商 务 合 作 ， 关 注 公 众 号 回 复 “ 商 务 合 作 ”     |   专 员 对 接
 
 -----进 群 分 隔 线 ----
 公 众 号 任 意 文 章 底 部   |   兼 有 技 术 群 联 系 方 式
