@@ -1,4 +1,4 @@
-# WeChat-Sharing-records | 源码社群
+# WeChat-Sharing-records | 技术资源社群
 
 > **作者：** Bruce.D，PHP 数据库，[:pencil2: 八点半技术站 · 科技栈](#)，[:trophy: CSDN 博客](https://blog.csdn.net/qq_40884473)
 
